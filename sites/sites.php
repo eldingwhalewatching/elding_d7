@@ -55,3 +55,5 @@
  */
 
  $sites['elding.is.ddev.site'] = 'elding.is';
+ $sites['elding.is'] = 'elding.is;
+ $sites['www.elding.is'] = 'elding.is';
